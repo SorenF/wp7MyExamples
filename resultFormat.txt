@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<result r_id="64f14ded" s_id="1296847347" u_id="352926020286977" time="9">
+<title>64f14ded</title>
+<category name="Questions about apt" id="1">
+<answer type="_choice" id="1" visited="true">
+<item>0</item>
+<item>3</item>
+</answer>
+</category>
+</result>
